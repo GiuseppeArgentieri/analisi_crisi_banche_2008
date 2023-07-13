@@ -1,5 +1,5 @@
-# analisi crisi delle principali banche Italiane e Americane nel 2008
-### Lavoro di tesi improntato sull'analisi esplorativa dei dei prezzi delle azioni delle principali banche Italiane e Americane. Il focus sarà costituito dall'analisi della crisi finanziaria del 2008.
+# STUDIO E ANALISI DEGLI EFFETTI DELLA CRISI FINANZIARIA DEL 2008 SULLE AZIONI DELLE PRINCIPALI BANCHE AMERICANE ED ITALIANE
+### Lavoro di tesi improntato sull'analisi esplorativa dei prezzi delle azioni delle principali banche Italiane e Americane.
 ____
 ### I dati su cui sarà svolto il lavoro di tesi avranno come fonte "yahoo finance" e saranno presi attraverso il modulo pandas_datareader.
 ____
